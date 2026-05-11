@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "EPD",
-    "fetch_date": "2026-05-04T14:41:14.303201",
+    "fetch_date": "2026-05-11T15:49:26.143118",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": 14201000000.0,
       "2025-03-31 00:00:00": 15417000000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": NaN,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:41:14.306382"
+  "fetched_at": "2026-05-11T15:49:26.144618"
 }

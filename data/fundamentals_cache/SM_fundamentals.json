@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "SM",
-    "fetch_date": "2026-05-04T15:13:20.061509",
+    "fetch_date": "2026-05-11T16:21:32.911349",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 835858000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 15.79,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T15:13:20.062829"
+  "fetched_at": "2026-05-11T16:21:32.912736"
 }

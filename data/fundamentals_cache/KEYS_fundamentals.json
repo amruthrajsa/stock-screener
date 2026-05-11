@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "KEYS",
-    "fetch_date": "2026-05-04T14:52:47.654943",
+    "fetch_date": "2026-05-11T16:00:57.857348",
     "quarterly_revenue": {
       "2025-01-31 00:00:00": 1298000000.0,
       "2025-04-30 00:00:00": 1306000000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.655,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:52:47.656639"
+  "fetched_at": "2026-05-11T16:00:57.858814"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "IONS",
-    "fetch_date": "2026-05-04T14:51:12.627853",
+    "fetch_date": "2026-05-11T15:59:22.597275",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 131612000.0,
       "2025-06-30 00:00:00": 452049000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 0.023,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:51:12.629490"
+  "fetched_at": "2026-05-11T15:59:22.600025"
 }

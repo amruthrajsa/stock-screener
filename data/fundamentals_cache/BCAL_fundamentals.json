@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "BCAL",
-    "fetch_date": "2026-05-04T14:28:24.739861",
+    "fetch_date": "2026-05-11T15:36:37.518389",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 45545000.0,
@@ -26,5 +26,5 @@
     "eps_yoy_change": -19.230769230769237,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:28:24.740471"
+  "fetched_at": "2026-05-11T15:36:37.519155"
 }

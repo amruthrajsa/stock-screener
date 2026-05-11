@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "GKOS",
-    "fetch_date": "2026-05-04T14:45:58.341927",
+    "fetch_date": "2026-05-11T15:54:07.249127",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 106664000.0,
@@ -38,5 +38,5 @@
     "inventory_to_sales_ratio": 0.414,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:45:58.343614"
+  "fetched_at": "2026-05-11T15:54:07.250602"
 }

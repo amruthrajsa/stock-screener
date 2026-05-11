@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "NHC",
-    "fetch_date": "2026-05-04T15:00:39.912629",
+    "fetch_date": "2026-05-11T16:08:51.233740",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": 369350000.0,
       "2025-03-31 00:00:00": 373697000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.02,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T15:00:39.914325"
+  "fetched_at": "2026-05-11T16:08:51.235207"
 }

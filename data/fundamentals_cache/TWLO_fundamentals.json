@@ -1,18 +1,18 @@
 {
   "data": {
     "ticker": "TWLO",
-    "fetch_date": "2026-05-04T15:18:52.477631",
+    "fetch_date": "2026-05-11T16:27:05.186450",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
-      "2024-12-31 00:00:00": 1194835000.0,
+      "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 1172463000.0,
       "2025-06-30 00:00:00": 1228425000.0,
       "2025-09-30 00:00:00": 1300402000.0,
       "2025-12-31 00:00:00": 1365930000.0,
-      "2026-03-31 00:00:00": NaN
+      "2026-03-31 00:00:00": 1406907000.0
     },
-    "revenue_qoq_change": null,
-    "revenue_yoy_change": null,
+    "revenue_qoq_change": 2.9999341108255915,
+    "revenue_yoy_change": 19.995854879855486,
     "quarterly_eps": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": NaN,
@@ -24,10 +24,10 @@
     },
     "eps_qoq_change": 290.0,
     "eps_yoy_change": 374.99999999999994,
-    "gross_margin": NaN,
-    "margin_change": NaN,
-    "operating_margin": NaN,
+    "gross_margin": 48.63,
+    "margin_change": 0.14,
+    "operating_margin": 7.65,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T15:18:52.479339"
+  "fetched_at": "2026-05-11T16:27:05.187607"
 }

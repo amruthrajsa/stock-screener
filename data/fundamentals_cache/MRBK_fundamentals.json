@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "MRBK",
-    "fetch_date": "2026-05-04T14:58:40.805232",
+    "fetch_date": "2026-05-11T16:06:51.929236",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 32579000.0,
@@ -26,5 +26,5 @@
     "eps_yoy_change": 85.71428571428574,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:58:40.805932"
+  "fetched_at": "2026-05-11T16:06:51.930041"
 }

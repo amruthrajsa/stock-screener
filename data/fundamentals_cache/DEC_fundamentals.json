@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "DEC",
-    "fetch_date": "2026-05-04T14:37:56.974043",
+    "fetch_date": "2026-05-11T15:46:09.029544",
     "quarterly_inventory": {
       "2024-12-31 00:00:00": 9591000.0,
       "2025-06-30 00:00:00": NaN,
@@ -10,5 +10,5 @@
     "inventory_qoq_change": null,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:37:56.974479"
+  "fetched_at": "2026-05-11T15:46:09.029988"
 }

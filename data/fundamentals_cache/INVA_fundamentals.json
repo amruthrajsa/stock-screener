@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "INVA",
-    "fetch_date": "2026-05-04T14:51:07.672286",
+    "fetch_date": "2026-05-11T15:59:17.744292",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 91806000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.342,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:51:07.674006"
+  "fetched_at": "2026-05-11T15:59:17.746471"
 }

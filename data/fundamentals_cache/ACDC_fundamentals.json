@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ACDC",
-    "fetch_date": "2026-05-04T14:22:05.627089",
+    "fetch_date": "2026-05-11T15:30:17.287052",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 454700000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.347,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:22:05.628869"
+  "fetched_at": "2026-05-11T15:30:17.288555"
 }

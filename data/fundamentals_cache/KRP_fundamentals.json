@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "KRP",
-    "fetch_date": "2026-05-04T14:53:36.654745",
+    "fetch_date": "2026-05-11T16:01:46.775400",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 70862961.0,
@@ -27,5 +27,5 @@
     "operating_margin": 35.35,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:53:36.656093"
+  "fetched_at": "2026-05-11T16:01:46.776760"
 }

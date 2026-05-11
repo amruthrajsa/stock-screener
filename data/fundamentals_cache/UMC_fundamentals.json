@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "UMC",
-    "fetch_date": "2026-05-04T15:19:40.334189",
+    "fetch_date": "2026-05-11T16:27:52.327368",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": NaN,
@@ -40,5 +40,5 @@
     "inventory_to_sales_ratio": 0.633,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T15:19:40.335887"
+  "fetched_at": "2026-05-11T16:27:52.328859"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "GTY",
-    "fetch_date": "2026-05-04T14:47:17.774849",
+    "fetch_date": "2026-05-11T15:55:26.578364",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2025-03-31 00:00:00": 52330000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 65.78,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:47:17.776137"
+  "fetched_at": "2026-05-11T15:55:26.579672"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "BBSI",
-    "fetch_date": "2026-05-04T14:28:17.804869",
+    "fetch_date": "2026-05-11T15:36:30.547999",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": 304820000.0,
       "2025-03-31 00:00:00": 292566000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 5.77,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:28:17.806233"
+  "fetched_at": "2026-05-11T15:36:30.549137"
 }

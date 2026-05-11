@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "PFLT",
-    "fetch_date": "2026-05-04T15:05:32.880616",
+    "fetch_date": "2026-05-11T16:13:45.423314",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 29695000.0,
@@ -24,5 +24,5 @@
     "eps_yoy_change": -111.42857142857143,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T15:05:32.881273"
+  "fetched_at": "2026-05-11T16:13:45.423961"
 }

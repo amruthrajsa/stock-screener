@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "EAT",
-    "fetch_date": "2026-05-04T14:39:46.080165",
+    "fetch_date": "2026-05-11T15:47:58.215394",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": NaN,
@@ -39,5 +39,5 @@
     "inventory_to_sales_ratio": 0.062,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:39:46.081848"
+  "fetched_at": "2026-05-11T15:47:58.216871"
 }

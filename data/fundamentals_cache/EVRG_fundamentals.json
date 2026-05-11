@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "EVRG",
-    "fetch_date": "2026-05-04T14:41:54.251474",
+    "fetch_date": "2026-05-11T15:50:06.312365",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 1257400000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.618,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:41:54.253186"
+  "fetched_at": "2026-05-11T15:50:06.313808"
 }

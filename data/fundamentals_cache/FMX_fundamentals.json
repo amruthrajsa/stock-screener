@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "FMX",
-    "fetch_date": "2026-05-04T14:43:49.248480",
+    "fetch_date": "2026-05-11T15:51:58.265801",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2025-03-31 00:00:00": 195819000000.0,
@@ -38,5 +38,5 @@
     "inventory_to_sales_ratio": 0.326,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:43:49.250257"
+  "fetched_at": "2026-05-11T15:51:58.267361"
 }

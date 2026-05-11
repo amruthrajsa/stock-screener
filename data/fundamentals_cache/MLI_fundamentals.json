@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "MLI",
-    "fetch_date": "2026-05-04T14:58:02.087126",
+    "fetch_date": "2026-05-11T16:06:12.009255",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": NaN,
@@ -40,5 +40,5 @@
     "inventory_to_sales_ratio": 0.457,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:58:02.089454"
+  "fetched_at": "2026-05-11T16:06:12.010752"
 }

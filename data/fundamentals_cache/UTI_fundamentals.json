@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "UTI",
-    "fetch_date": "2026-05-04T15:20:18.097386",
+    "fetch_date": "2026-05-11T16:28:30.269083",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 201429000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 7.1,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T15:20:18.098671"
+  "fetched_at": "2026-05-11T16:28:30.270507"
 }

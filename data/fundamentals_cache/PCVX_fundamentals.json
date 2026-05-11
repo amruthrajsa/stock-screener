@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "PCVX",
-    "fetch_date": "2026-05-04T15:05:02.932349",
+    "fetch_date": "2026-05-11T16:13:15.416895",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 0.0,
@@ -25,5 +25,5 @@
     "operating_margin": 0,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T15:05:02.933313"
+  "fetched_at": "2026-05-11T16:13:15.417830"
 }

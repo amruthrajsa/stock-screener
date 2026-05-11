@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "VSCO",
-    "fetch_date": "2026-05-04T15:21:37.425747",
+    "fetch_date": "2026-05-11T16:29:49.295262",
     "quarterly_revenue": {
       "2024-10-31 00:00:00": NaN,
       "2025-01-31 00:00:00": 2106000000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 0.472,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T15:21:37.427451"
+  "fetched_at": "2026-05-11T16:29:49.296725"
 }

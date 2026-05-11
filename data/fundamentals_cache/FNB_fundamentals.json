@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "FNB",
-    "fetch_date": "2026-05-04T14:43:50.435003",
+    "fetch_date": "2026-05-11T15:51:59.475808",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 373000000.0,
@@ -26,5 +26,5 @@
     "eps_yoy_change": 18.75,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:43:50.435697"
+  "fetched_at": "2026-05-11T15:51:59.476519"
 }

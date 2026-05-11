@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "PHIN",
-    "fetch_date": "2026-05-04T15:05:45.888096",
+    "fetch_date": "2026-05-11T16:13:58.419677",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": NaN,
@@ -39,5 +39,5 @@
     "inventory_to_sales_ratio": 0.557,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T15:05:45.889814"
+  "fetched_at": "2026-05-11T16:13:58.421249"
 }

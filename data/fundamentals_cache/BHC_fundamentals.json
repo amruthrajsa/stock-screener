@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "BHC",
-    "fetch_date": "2026-05-04T14:29:15.835588",
+    "fetch_date": "2026-05-11T15:37:28.662792",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 2259000000.0,
       "2025-06-30 00:00:00": 2530000000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 0.634,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:29:15.837253"
+  "fetched_at": "2026-05-11T15:37:28.664506"
 }

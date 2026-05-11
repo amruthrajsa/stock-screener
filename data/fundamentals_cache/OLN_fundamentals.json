@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "OLN",
-    "fetch_date": "2026-05-04T15:03:07.015243",
+    "fetch_date": "2026-05-11T16:11:19.308525",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 1671300000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.471,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T15:03:07.017031"
+  "fetched_at": "2026-05-11T16:11:19.310082"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ACRE",
-    "fetch_date": "2026-05-04T14:22:20.569704",
+    "fetch_date": "2026-05-11T15:30:32.347358",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": -490000.0,
       "2025-03-31 00:00:00": 14948000.0,
@@ -22,5 +22,5 @@
     "eps_yoy_change": 65.0,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:22:20.570380"
+  "fetched_at": "2026-05-11T15:30:32.347968"
 }

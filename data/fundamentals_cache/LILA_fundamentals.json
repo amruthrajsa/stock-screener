@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "LILA",
-    "fetch_date": "2026-05-04T14:54:54.746673",
+    "fetch_date": "2026-05-11T16:03:04.873796",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 1150300000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 16.55,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:54:54.748015"
+  "fetched_at": "2026-05-11T16:03:04.874951"
 }

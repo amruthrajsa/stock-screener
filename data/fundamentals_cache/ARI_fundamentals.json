@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ARI",
-    "fetch_date": "2026-05-04T14:26:05.861807",
+    "fetch_date": "2026-05-11T15:34:18.424759",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": NaN,
@@ -26,5 +26,5 @@
     "eps_yoy_change": 0.0,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:26:05.862447"
+  "fetched_at": "2026-05-11T15:34:18.425407"
 }

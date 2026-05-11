@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "LYTS",
-    "fetch_date": "2026-05-04T14:56:10.875561",
+    "fetch_date": "2026-05-11T16:04:21.029981",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": 147734000.0,
       "2025-03-31 00:00:00": 132481000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": NaN,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:56:10.877248"
+  "fetched_at": "2026-05-11T16:04:21.031493"
 }

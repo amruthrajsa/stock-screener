@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CMS",
-    "fetch_date": "2026-05-04T14:34:39.137502",
+    "fetch_date": "2026-05-11T15:42:53.859273",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": NaN,
@@ -39,5 +39,5 @@
     "inventory_to_sales_ratio": 0.235,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:34:39.139244"
+  "fetched_at": "2026-05-11T15:42:53.860842"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "GCO",
-    "fetch_date": "2026-05-04T14:45:12.310847",
+    "fetch_date": "2026-05-11T15:53:21.269032",
     "quarterly_revenue": {
       "2024-10-31 00:00:00": NaN,
       "2025-01-31 00:00:00": 745949000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.542,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:45:12.312536"
+  "fetched_at": "2026-05-11T15:53:21.270513"
 }

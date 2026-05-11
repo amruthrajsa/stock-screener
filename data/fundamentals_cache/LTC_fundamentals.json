@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "LTC",
-    "fetch_date": "2026-05-04T14:55:52.854494",
+    "fetch_date": "2026-05-11T16:04:02.832120",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 52582000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": NaN,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:55:52.856269"
+  "fetched_at": "2026-05-11T16:04:02.833600"
 }

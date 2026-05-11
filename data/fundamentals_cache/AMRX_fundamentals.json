@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "AMRX",
-    "fetch_date": "2026-05-04T14:24:53.740064",
+    "fetch_date": "2026-05-11T15:33:06.357863",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 730518000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.745,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:24:53.741744"
+  "fetched_at": "2026-05-11T15:33:06.359350"
 }

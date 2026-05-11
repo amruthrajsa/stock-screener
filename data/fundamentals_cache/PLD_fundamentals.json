@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "PLD",
-    "fetch_date": "2026-05-04T15:06:07.105736",
+    "fetch_date": "2026-05-11T16:14:19.721390",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": NaN,
@@ -29,5 +29,5 @@
     "operating_margin": 35.99,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T15:06:07.107032"
+  "fetched_at": "2026-05-11T16:14:19.722796"
 }

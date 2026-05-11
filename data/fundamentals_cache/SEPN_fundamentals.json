@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "SEPN",
-    "fetch_date": "2026-05-04T15:11:54.984161",
+    "fetch_date": "2026-05-11T16:20:08.579110",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 212000.0,
@@ -25,5 +25,5 @@
     "operating_margin": -66.44,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T15:11:54.985148"
+  "fetched_at": "2026-05-11T16:20:08.580016"
 }

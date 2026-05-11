@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CENX",
-    "fetch_date": "2026-05-04T14:33:10.932216",
+    "fetch_date": "2026-05-11T15:41:24.707924",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 630900000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.82,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:33:10.933875"
+  "fetched_at": "2026-05-11T15:41:24.709399"
 }

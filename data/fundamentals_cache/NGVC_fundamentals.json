@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "NGVC",
-    "fetch_date": "2026-05-04T15:00:37.857603",
+    "fetch_date": "2026-05-11T16:08:49.122599",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": 330221000.0,
       "2025-03-31 00:00:00": 335769000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.381,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T15:00:37.859299"
+  "fetched_at": "2026-05-11T16:08:49.124058"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "SAH",
-    "fetch_date": "2026-05-04T15:10:56.027725",
+    "fetch_date": "2026-05-11T16:19:09.600688",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": NaN,
@@ -40,5 +40,5 @@
     "inventory_to_sales_ratio": 0.576,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T15:10:56.029488"
+  "fetched_at": "2026-05-11T16:19:09.602160"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ENS",
-    "fetch_date": "2026-05-04T14:40:59.180229",
+    "fetch_date": "2026-05-11T15:49:11.171378",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 906152000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 0.865,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:40:59.182074"
+  "fetched_at": "2026-05-11T15:49:11.173463"
 }
