@@ -3,9 +3,9 @@ name: Daily Stock Screening (Git-Based Storage)
 on:
   schedule:
     # Run at 7am EST (12:00 UTC) on weekdays - During BST (Mar–Oct):UK = UTC+1 & During GMT (Oct–Mar):UK = UTC+0
-    - cron: '0 7 * * 1-5'
+   # - cron: '0 7 * * 1-5'
     - cron: '0 12 * * 1-5'
-    - cron: '0 20 * * 1-5'
+    #- cron: '0 20 * * 1-5'
 
   # Allow manual triggering
   workflow_dispatch:
