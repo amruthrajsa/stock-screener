@@ -9690,5 +9690,17 @@
   "VIRC": {
     "last_updated": "2026-06-29T16:50:45.704416",
     "in_earnings_season": false
+  },
+  "HOFT": {
+    "last_updated": "2026-06-30T14:51:25.958904",
+    "in_earnings_season": false
+  },
+  "LGN": {
+    "last_updated": "2026-06-30T14:57:29.905918",
+    "in_earnings_season": false
+  },
+  "VIA": {
+    "last_updated": "2026-06-30T15:23:31.975985",
+    "in_earnings_season": false
   }
 }
