@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "HOFT",
-    "fetch_date": "2026-06-30T14:51:25.955158",
+    "fetch_date": "2026-07-15T14:14:40.486664",
     "quarterly_revenue": {
       "2024-10-31 00:00:00": NaN,
       "2025-01-31 00:00:00": NaN,
@@ -40,5 +40,5 @@
     "inventory_to_sales_ratio": 0.648,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-06-30T14:51:25.957105"
+  "fetched_at": "2026-07-15T14:14:40.488810"
 }
