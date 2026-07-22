@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ULS",
-    "fetch_date": "2026-07-15T14:45:30.318733",
+    "fetch_date": "2026-07-22T14:58:22.588980",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 705000000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 18.21,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T14:45:30.320120"
+  "fetched_at": "2026-07-22T14:58:22.590451"
 }

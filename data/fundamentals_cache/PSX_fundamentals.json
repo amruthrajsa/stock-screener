@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "PSX",
-    "fetch_date": "2026-07-15T14:33:31.201405",
+    "fetch_date": "2026-07-22T14:46:21.317146",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 30430000000.0,
       "2025-06-30 00:00:00": 33323000000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.207,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T14:33:31.203377"
+  "fetched_at": "2026-07-22T14:46:21.318900"
 }

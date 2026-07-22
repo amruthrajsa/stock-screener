@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "JBTM",
-    "fetch_date": "2026-07-15T14:18:05.437626",
+    "fetch_date": "2026-07-22T14:30:57.448746",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": 467600000.0,
       "2025-03-31 00:00:00": 854000000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 0.713,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T14:18:05.439402"
+  "fetched_at": "2026-07-22T14:30:57.450496"
 }

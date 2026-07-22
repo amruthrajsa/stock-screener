@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "UPBD",
-    "fetch_date": "2026-07-15T14:45:49.478220",
+    "fetch_date": "2026-07-22T14:58:41.624539",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 1176363000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.004,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T14:45:49.480122"
+  "fetched_at": "2026-07-22T14:58:41.626308"
 }
