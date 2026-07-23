@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CPS",
-    "fetch_date": "2026-07-16T14:11:04.362827",
+    "fetch_date": "2026-07-23T14:19:13.808122",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 667069000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.27,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-16T14:11:04.364774"
+  "fetched_at": "2026-07-23T14:19:13.809652"
 }
