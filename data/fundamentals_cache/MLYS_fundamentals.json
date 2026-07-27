@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "MLYS",
-    "fetch_date": "2026-07-17T14:19:02.788561",
+    "fetch_date": "2026-07-27T15:15:56.033319",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 0.0,
@@ -25,5 +25,5 @@
     "operating_margin": 0,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-17T14:19:02.789102"
+  "fetched_at": "2026-07-27T15:15:56.034008"
 }
