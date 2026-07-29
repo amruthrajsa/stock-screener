@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "MTH",
-    "fetch_date": "2026-07-22T14:38:05.884261",
+    "fetch_date": "2026-07-29T14:51:09.686648",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 1365280000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 5.303,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T14:38:05.886011"
+  "fetched_at": "2026-07-29T14:51:09.688120"
 }
