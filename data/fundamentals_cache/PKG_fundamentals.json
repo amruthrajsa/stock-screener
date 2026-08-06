@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "PKG",
-    "fetch_date": "2026-07-29T14:57:55.073889",
+    "fetch_date": "2026-08-06T14:58:40.909629",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 2141000000.0,
@@ -38,5 +38,5 @@
     "inventory_to_sales_ratio": NaN,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-29T14:57:55.075370"
+  "fetched_at": "2026-08-06T14:58:40.911115"
 }

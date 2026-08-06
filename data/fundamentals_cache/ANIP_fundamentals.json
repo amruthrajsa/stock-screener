@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ANIP",
-    "fetch_date": "2026-07-15T13:51:17.035219",
+    "fetch_date": "2026-08-06T14:18:00.049858",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 197122000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.604,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:51:17.037730"
+  "fetched_at": "2026-08-06T14:18:00.051374"
 }

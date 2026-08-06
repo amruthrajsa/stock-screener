@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "OMDA",
-    "fetch_date": "2026-07-29T14:55:10.872007",
+    "fetch_date": "2026-08-06T14:55:55.600681",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 54963000.0,
       "2025-06-30 00:00:00": 61371000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.049,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-29T14:55:10.873524"
+  "fetched_at": "2026-08-06T14:55:55.602174"
 }
