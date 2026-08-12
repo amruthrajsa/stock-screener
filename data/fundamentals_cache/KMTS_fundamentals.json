@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "KMTS",
-    "fetch_date": "2026-08-04T14:50:59.450235",
+    "fetch_date": "2026-08-12T13:44:59.356612",
     "quarterly_revenue": {
       "2025-01-31 00:00:00": NaN,
       "2025-04-30 00:00:00": 17233000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.234,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-04T14:50:59.452809"
+  "fetched_at": "2026-08-12T13:44:59.357739"
 }
