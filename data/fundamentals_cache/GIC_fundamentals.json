@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "GIC",
-    "fetch_date": "2026-08-06T14:38:26.775724",
+    "fetch_date": "2026-08-14T13:33:46.647410",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
@@ -40,5 +40,5 @@
     "inventory_to_sales_ratio": 0.423,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-06T14:38:26.777228"
+  "fetched_at": "2026-08-14T13:33:46.648922"
 }

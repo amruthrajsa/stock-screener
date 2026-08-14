@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "RS",
-    "fetch_date": "2026-08-06T15:03:10.292256",
+    "fetch_date": "2026-08-14T13:58:31.681101",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 3659800000.0,
       "2025-09-30 00:00:00": 3651200000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 0.502,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-06T15:03:10.293768"
+  "fetched_at": "2026-08-14T13:58:31.683065"
 }

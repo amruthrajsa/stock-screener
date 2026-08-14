@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ASC",
-    "fetch_date": "2026-08-06T14:19:09.101676",
+    "fetch_date": "2026-08-14T13:14:25.859735",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
@@ -40,5 +40,5 @@
     "inventory_to_sales_ratio": 0.12,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-06T14:19:09.103154"
+  "fetched_at": "2026-08-14T13:14:25.861237"
 }
