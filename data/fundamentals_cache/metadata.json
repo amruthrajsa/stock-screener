@@ -10318,5 +10318,13 @@
   "NTWK": {
     "last_updated": "2026-10-02T18:16:22.847248",
     "in_earnings_season": false
+  },
+  "ANDG": {
+    "last_updated": "2026-10-05T20:23:42.901199",
+    "in_earnings_season": false
+  },
+  "MDLN": {
+    "last_updated": "2026-10-05T20:55:26.117848",
+    "in_earnings_season": false
   }
 }
